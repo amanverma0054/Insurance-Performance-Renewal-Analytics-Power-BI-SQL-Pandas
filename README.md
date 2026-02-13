@@ -11,15 +11,6 @@ This project leverages SQL for data extraction, Pandas for transformation, and P
 
 The solution enabled identification of ₹1.8+ Crore in lapsed premiums, helping improve renewal conversion and revenue recovery.
 
-
-🔗 Download PBIX File:
-👉 https://drive.google.com/your-link-here
-
-🌐 Live Dashboard (Optional)
-
-🔗 Power BI Service Link:
-👉 https://app.powerbi.com/your-dashboard-link
-
 (Ensure sharing access is enabled if public.)
 
 🛠 Tools & Technologies Used
