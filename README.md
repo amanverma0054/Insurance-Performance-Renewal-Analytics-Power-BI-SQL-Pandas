@@ -1,51 +1,107 @@
-# Insurance-Performance-Renewal-Analytics-Power-BI-SQL-Pandas
-Developed an end-to-end analytics solution to monitor insurance sales performance, renewal tracking, and premium growth trends. The dashboard enabled real-time business visibility, improved renewal targeting, and supported executive-level strategic decision-making.
+📊 Insurance Performance & Renewal Analytics
 
-🚀 Key Contributions
+🚀 Power BI | SQL | Pandas
+📅 Oct 2025 – Nov 2025
 
-🔹 Designed and deployed interactive dashboards using Power BI integrated with SQL and Pandas for real-time sales monitoring.
+📌 Project Overview
 
-🔹 Built automated data transformation pipelines using SQL queries and Pandas, reducing manual processing effort by 60%.
+The Insurance Performance & Renewal Analytics Dashboard is an end-to-end business intelligence solution designed to monitor insurance sales performance, renewal efficiency, and premium growth trends.
 
-🔹 Engineered advanced DAX-based renewal tracking logic that identified ₹1.8 Cr+ in lapsed premiums, significantly improving renewal follow-ups and lead conversion rates.
+This project leverages SQL for data extraction, Pandas for transformation, and Power BI for interactive visualization to provide real-time financial insights and renewal tracking.
 
-🔹 Developed dynamic YoY premium growth visualizations and financial trend analysis to support strategic forecasting and executive reporting.
+The solution enabled identification of ₹1.8+ Crore in lapsed premiums, helping improve renewal conversion and revenue recovery.
 
-🔹 Implemented time-intelligence measures (YTD, MTD, QTD, YoY %) to evaluate revenue and renewal performance trends.
+📊 Dashboard Preview (Screenshots)
 
-📊 Key Metrics Tracked
+(Upload screenshots inside an images folder and update paths below)
 
-Total Premium Collected
+![Executive Overview](images/executive_overview.png)
+![Renewal Tracking](images/renewal_tracking.png)
+![YoY Growth Analysis](images/yoy_growth.png)
+![Agent Performance](images/agent_performance.png)
 
-Renewal Rate %
+📂 PBIX File Access
 
-Lapsed Premium Value
+Due to GitHub's 25MB file size limit, the Power BI file is hosted externally.
+
+🔗 Download PBIX File:
+👉 https://drive.google.com/your-link-here
+
+🌐 Live Dashboard (Optional)
+
+🔗 Power BI Service Link:
+👉 https://app.powerbi.com/your-dashboard-link
+
+(Ensure sharing access is enabled if public.)
+
+🛠 Tools & Technologies Used
+
+Power BI Desktop
+
+DAX (Advanced Measures & Time Intelligence)
+
+SQL (Joins, Aggregations, Data Extraction)
+
+Python – Pandas (Data Cleaning & Transformation)
+
+Star Schema Data Modeling
+
+📊 Key KPIs Tracked
+
+✔ Total Premium Collected
+✔ Renewal Rate %
+✔ Lapsed Premium Value
+✔ YoY Premium Growth %
+✔ Agent-wise Performance
+✔ Policy Category Contribution
+✔ Monthly & Quarterly Revenue Trends
+✔ YTD / MTD / QTD Performance
+
+🔍 Technical Implementation
+🔹 Data Extraction (SQL)
+
+Complex joins between policy, customer, and agent tables
+
+Aggregations for premium and renewal metrics
+
+Filtered lapsed vs active policies
+
+🔹 Data Transformation (Pandas)
+
+Missing value handling
+
+Data normalization
+
+Date formatting for time intelligence
+
+Automated preprocessing pipeline
+
+🔹 Advanced DAX Measures
+
+CALCULATE()
+
+FILTER()
+
+ALL() / ALLEXCEPT()
+
+DATESYTD()
+
+TOTALYTD()
+
+SAMEPERIODLASTYEAR()
+
+Renewal Rate % Calculation
 
 YoY Growth %
 
-Agent-wise Performance
-
-Policy Category Distribution
-
-Monthly Revenue Trend
-
 📈 Business Impact
 
-✅ Identified ₹1.8+ Crore in lost revenue opportunities through renewal gap analysis
-✅ Improved renewal targeting efficiency and conversion rates
-✅ Enabled leadership to track real-time financial performance
-✅ Reduced manual reporting through automated transformation workflows
+Identified ₹1.8+ Crore in potential lost revenue
 
-🛠 Technical Skills Demonstrated
+Improved renewal targeting efficiency
 
-Advanced DAX Calculations
+Reduced manual reporting effort by 60%
 
-Complex SQL Queries & Joins
+Enabled executive-level strategic planning
 
-Data Cleaning with Pandas
-
-KPI & Executive Dashboard Design
-
-Time Intelligence & Financial Trend Analysis
-
-Data Modeling & Relationship Optimization
+Enhanced financial forecasting accuracy
