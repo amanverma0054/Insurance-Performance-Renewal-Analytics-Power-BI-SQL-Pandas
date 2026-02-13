@@ -11,18 +11,6 @@ This project leverages SQL for data extraction, Pandas for transformation, and P
 
 The solution enabled identification of ₹1.8+ Crore in lapsed premiums, helping improve renewal conversion and revenue recovery.
 
-📊 Dashboard Preview (Screenshots)
-
-(Upload screenshots inside an images folder and update paths below)
-
-![Executive Overview](images/executive_overview.png)
-![Renewal Tracking](images/renewal_tracking.png)
-![YoY Growth Analysis](images/yoy_growth.png)
-![Agent Performance](images/agent_performance.png)
-
-📂 PBIX File Access
-
-Due to GitHub's 25MB file size limit, the Power BI file is hosted externally.
 
 🔗 Download PBIX File:
 👉 https://drive.google.com/your-link-here
